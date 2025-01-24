@@ -5,6 +5,7 @@ Starting script files for the week 3 lab.
 See D2L for lab instructions
 
 # Script 1 Documentation Usage
+Importing the key to AWS:
 [import-key-pair](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/import-key-pair.html)
 
 # Script 3 Documentation Usage
