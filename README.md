@@ -9,3 +9,4 @@ See D2L for lab instructions
 
 # Script 3 Documentation Usage
 [Launching, listing, and deleting Amazon EC2 instances in the AWS CLI](https://docs.aws.amazon.com/cli/v1/userguide/cli-services-ec2-instances.html)
+[describe-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html)
